@@ -207,5 +207,5 @@ w3.middleware_onion.inject(geth_poa_middleware, layer=0)
 
 ### Final
 
-![eth-test](Images/Capture.png)
+![eth-test](Images/Capture.PNG)
 
